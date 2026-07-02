@@ -15,7 +15,7 @@ tSteps = maxTime / dt;      % Max discrete time steps per trial
 c = 0.1;                    % Within-trial diffusion noise coefficient
 
 % 2. Set DDM params---------
-%Parameters to simulate VOEWL labeling*******
+%Parameters to simulate VOWEL labeling*******
 a_classic = 0.12;           % Boundary separation
 ter_classic = 0.250;        % Mean non-decision time
 s_ter_classic = 0.060;      % Non-decision variability

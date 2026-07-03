@@ -23,7 +23,9 @@ Run the m-file (pisoni_tash_RT_model.m) to simulate the figures:
 References:
 
 Bidelman, G. M., Bernard, F., & Skubic, K. (2025). Hearing in categories and speech perception at the “cocktail party”. PloS One, 20(1), e0318600.
+
 Pisoni, D. B., & Tash, J. (1974). Reaction times to comparisons within and across phonetic categories. Perception and Psychophysics, 15(2), 285–290. 
+
 Ratcliff, R., & McKoon, G. (2008). The diffusion decision model: Theory and data for two-choice decision tasks. Neural Computation, 20(4), 873–922.
 
 

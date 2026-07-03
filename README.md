@@ -20,6 +20,7 @@ Run the m-file (pisoni_tash_RT_model.m) to simulate the figures:
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/01236c64-ad6b-4d90-99d9-fcf3c14510d5" />
 
 
+
 <img width="300"  alt="image" src="https://github.com/user-attachments/assets/b002416f-2088-4397-abc3-e1cdd9ac1f11" />
 
 References:

@@ -9,6 +9,5 @@ Vowel vs. CV identification and reaction times for phoneme labeling tasks can be
 Run the m-file to simulate the figures:
 
 <img width="500" height="400" alt="simulations" src="https://github.com/user-attachments/assets/2c7b15fc-cf8a-4683-ab26-6e65cecf6193" />
-&nbsp
 <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/b10b86bd-b5dd-45a4-b897-faed4805d2b9" />
 <img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/8f3e77ed-58b4-47c3-8ebc-8f5cf447ce05" />

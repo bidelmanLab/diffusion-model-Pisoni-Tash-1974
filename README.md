@@ -3,6 +3,7 @@
 
 Model inspired by:
 Ratcliff, R., & McKoon, G. (2008). The diffusion decision model: Theory and data for two-choice decision tasks. Neural Computation, 20(4), 873–922.
+
     <img width="400" height="150" alt="image" src="https://github.com/user-attachments/assets/edd3de72-4d23-42f9-9c7f-f5c992c0603b" />
 
 

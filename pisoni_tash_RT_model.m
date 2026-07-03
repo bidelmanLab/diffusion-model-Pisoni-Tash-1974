@@ -122,7 +122,7 @@ xlim([0.5, 5.5]); ylim([150, 950]); %grid on;
 set(gca, 'XTick', 1:5, 'XTickLabel', {'S1', 'S2', 'S3', 'S4', 'S5'});
 ylabel('RT (ms)'); %title('B. Classic Chronometric Curve (Inverted-V)');
 
-% --- ROW 2: FLAT MODEL OUTPUTS ---
+% --- ROW 2: CV (FLAT) MODEL OUTPUTS ---
 % Subplot 3: Flat Model Categorization
 subplot(2, 2, 3);
 plot(1:5, percentPa_flat, '-o', 'LineWidth', 2, 'Color',  rgb('DodgerBlue'), 'MarkerFaceColor',  rgb('DodgerBlue'), 'MarkerSize', 6);
@@ -196,7 +196,7 @@ step = 3;
 
 subplot(1,2,1)
 hold on
-title('Classic S3')
+title('Vowel S3')
 
 for tr = 1:20
     evidence = a_classic/2;
@@ -221,7 +221,7 @@ yline(0,'k--')
 
 subplot(1,2,2)
 hold on
-title('Flat S3')
+title('CV S3')
 
 for tr = 1:20
     evidence = a_flat/2;
